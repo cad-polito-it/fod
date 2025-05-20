@@ -33,3 +33,10 @@ This custom FOD dataset serves as a foundation for evaluating the effectiveness 
 ## Dataset Testing
 
 The dataset is available on [Google Drive](https://drive.google.com/file/d/18IpnsJsNgoVc8_Ii94oiQSd5sP07GTpH/view?usp=sharing). By adding the shortcut to your Drive it is possible to test it on Google Colab with the link at the top of this README. You can also test it locally with [dataset_analysis.ipynb](./dataset_analysis.ipynb) notebook, which explains how to properly use the dataset.
+
+## Main Contributors
+
+* Lorenzo Fezza
+* Vittorio Turco
+* Ernesto Sanchez
+* Matteo Sonza Reorda
